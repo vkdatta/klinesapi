@@ -1,4 +1,4 @@
-## KlinesAPI — Indian Stock Market Screener & Backtesting Engine
+### KlinesAPI — Indian Stock Market Screener & Backtesting Engine
 
 KlinesAPI is a high-speed REST API built for backtesting and technical analysis of Indian equities. It provides adjusted OHLCV data starting from 2020, with daily updates by 10 PM IST covering all NSE listed instruments.
 
