@@ -50,7 +50,7 @@ Queries are credit-gated with a transparent, pay-as-you-go model so you only pay
 
 ### Access
 
-The API is currently available by only by invitation. To request access, email with the exact subject:
+The API is currently available only by invitation. To request access, email with the exact subject:
 
 vkydtech@gmail.com  
 Subject: KLINES API ACCESS
