@@ -46,6 +46,7 @@ Queries are credit-gated with a transparent, pay-as-you-go model so you only pay
 - You are billed only for what you actually query.
 - The data is adjusted for corporate actions with reasonable accuracy and is intended for research and backtesting purposes only.
 - Results from this API should not be used to make investment decisions.
+- if request limit is reached for a month, based on demand, request limit will  be increased by deducting 5000 credit balance for each 1000 additional limits.
 
 ### Access
 
